@@ -2,6 +2,8 @@
 
 This notebook looks at neighbourhoods seperated into clusters and what features of am AirBnb listing determines the price per night and how many bookings they get. The idea was to maximize the value brought by an AirBnb unit, but also further seperate the neighbourhoods into more homogenous sections.
 
+#### Link to blog post: https://medium.com/@misraketshai/one-reason-why-you-arent-making-bank-on-your-airbnb-ec33902dc8b5
+
 
 ## Installations
 
