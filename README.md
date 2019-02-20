@@ -17,7 +17,9 @@ The motivation for this project was to see provide an avenue to increase booking
 
 ## File Descriptions
 
-There are two data files taken from InsideAirBnB(http://insideairbnb.com), 
+AirBnb toronto.ipyb - the clustering and analysis of the AirBnb Toronto data.
+
+There are two data files taken from InsideAirBnB(http://insideairbnb.com), dated for December 6, 2018
   calendar.csv - showing the dates of the bookings
   listings.csv - the individual listings
   
