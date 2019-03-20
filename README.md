@@ -15,7 +15,7 @@ Scikit-learn
 
 ## Project Motivations
 
-The motivation for this project was to see provide an avenue to increase bookings for AirBnB's. 
+The motivation for this project was to find an avenue to increase bookings for AirBnB's. 
 
 ## File Descriptions
 
